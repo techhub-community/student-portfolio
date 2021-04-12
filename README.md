@@ -6,11 +6,11 @@ Student Portfolio Competition for implementing basic web dev concepts.
 
 Follow these steps to contribute to this project.
 
-1. Clone this repository locally.
-2. Make a new folder with your github username foloowed by @ - example: (@dntandan)
-3. Go to your respective folder and make a basic project with your learning in webdev.
-4. Make changes and create commits directly to main branch.
-5. Make changes to your own folder only. Donot alter others folder and projects.
+1. Clone this repository locally (If you are direct contributor) or Fork this repository and follow next steps (for outside collaborators).
+2. Make a new folder with your github username followed by @. example: (@dntandan)
+3. Go to your respective folder and make a basic project with your learnings in webdev.
+4. Make changes and create commits directly to main branch (if you are a direct contributor) or make PR to main branch for review (for outside collaborators).
+5. Make changes to your own folder only. Do not alter others folder and projects.
 6. We will review all the projects in our next meeting.
 
 ## Learn More (Video Lectures)
