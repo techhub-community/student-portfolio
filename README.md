@@ -1,5 +1,5 @@
 # Student Portfolio
-Student Portfolio Competition in implementing basic web dev concepts.
+Student Portfolio Competition for implementing basic web dev concepts.
 
 
 ## Contribution
