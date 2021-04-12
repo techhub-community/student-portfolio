@@ -1,2 +1,2 @@
 # student-portfolio
-Student Portfolio COmpetition
+Student Portfolio Competition
