@@ -32,7 +32,7 @@ React.useEffect(()=>{
 
   const getWork = async ()=>{
     try{
-      const r = await axios.get('http://localhost:5000/works')
+      const r = await axios.get('https://student-portfolio-server.herokuapp.com/works')
       return r.data;
     }
     catch(e){
