@@ -1,0 +1,23 @@
+.container{
+  width: 90%;
+  margin: 35px auto;
+}
+@media (prefers-color-scheme: dark) {
+
+
+  nav{
+      background-color: #1E1E1E !important;
+  }
+  body{
+      background-color: #696969;
+  }
+  .person-card{
+      background-color: #7C7C7C;
+  }
+}
+
+@media (prefers-color-scheme:light){
+  .person-card{
+    background-color: #F8F7F7; 
+  }
+}

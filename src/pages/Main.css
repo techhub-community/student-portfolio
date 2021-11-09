@@ -1,0 +1,19 @@
+.main{
+    overflow: hidden;
+}
+.works,h1{
+    width: 90%;
+   margin-bottom: 45px;
+}
+
+h1{
+    margin-bottom: 65px;
+    display: block;
+    margin-top: 115px;
+    
+}
+
+.fab{
+    width: 45px;
+    height: 45px;
+}
