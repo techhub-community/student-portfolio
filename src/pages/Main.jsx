@@ -13,7 +13,7 @@ function Main({modal,user,works}) {
 
             {modal && <LoginModal/>}
             <Navbar/>
-            <h1 className className="dark:text-white mx-auto font-semibold lg:text-5xl text-3xl">Projects Showcase</h1>
+            <h1 className="dark:text-white mx-auto font-semibold lg:text-5xl text-3xl">Projects Showcase</h1>
 
             <div className="works grid sm:grid-cols-2 grid-cols-1 lg:grid-cols-3 mx-auto mt-10 gap-5">
                 {

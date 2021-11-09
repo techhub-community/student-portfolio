@@ -47,7 +47,9 @@ React.useEffect(()=>{
         console.log(works)
         setWork(works);
     })
-},[])
+},
+// eslint-disable-next-line
+[])
 
 
 const handleSocialNavigate = (url) =>{
