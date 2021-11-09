@@ -52,7 +52,6 @@ function LoginModal({modal,SetModal}) {
     buttonText="Login"
     onSuccess={responseGoogle}
     onFailure={responseGoogle}
-    cookiePolicy={'single_host_origin'}
   />
             </div>
         </div>
