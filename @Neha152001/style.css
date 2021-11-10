@@ -1,0 +1,31 @@
+body{
+    background-color:#87CEFA;
+}
+
+.flex-box{
+  background-color: white;
+  width:45%;
+  display:flexbox;
+  margin-left: 27%;
+  margin-top: 5%;
+  height:25%;
+  border-radius: 5%;
+}
+h1{
+    text-align: center;
+    font-size:xx-large;
+    padding:2% 4%;
+    padding-top:5%;
+}
+p{
+    padding-top:2%;
+    padding-left:5%;
+    padding-right:5%;
+    padding-bottom: 2%;
+    font-size:large;
+}
+img{
+    width:30%;
+    margin-left:35% ;
+    border-radius:50%;
+}
